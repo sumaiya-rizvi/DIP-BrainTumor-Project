@@ -129,12 +129,19 @@ This project is for educational purposes and may be used under the [MIT License]
 
 ### DEMO (OUTPUT)
 
+![Screenshot 2025-05-19 144144(1)](https://github.com/user-attachments/assets/3a498637-d4e5-4770-b11c-86a693f60a25)
+![Screenshot 2025-05-19 144203(1)](https://github.com/user-attachments/assets/74f568e8-89ae-4c97-ade1-d7f3ebb456e8)
+![Screenshot 2025-05-19 144242(1)](https://github.com/user-attachments/assets/83bbd383-fb61-4a21-bbf6-78a5b7cc1194)
+![Screenshot 2025-05-19 144259(1)](https://github.com/user-attachments/assets/eb02f896-783d-4760-8ae3-1820d6e046b7)
+![Screenshot 2025-05-19 144317(1)](https://github.com/user-attachments/assets/e0ddc9fe-85f7-46d8-8013-21fafafe2dee)
+![Screenshot 2025-05-19 144327(1)](https://github.com/user-attachments/assets/f7138cd2-8f5c-458e-9f2c-1fccfce9b6b3)
+![Screenshot 2025-05-19 144336(1)](https://github.com/user-attachments/assets/9712822f-c189-45f6-ba48-8334779edfa7)
 
-![Screenshot 2025-05-19 144144](https://github.com/user-attachments/assets/488fe787-54ed-4cec-8a98-565e445ac712)
-![Screenshot 2025-05-19 144242(1)](https://github.com/user-attachments/assets/8c8a52ee-b2bb-48ec-93e3-bf465e7e62f4)
-![Screenshot 2025-05-19 144259(1)](https://github.com/user-attachments/assets/e8a46a55-8800-4805-b549-d31ac5cff14d)
-![Screenshot 2025-05-19 144327(1)](https://github.com/user-attachments/assets/61c557ad-6f66-43c3-82a5-e7d12592a015)
-![Screenshot 2025-05-19 144336(1)](https://github.com/user-attachments/assets/0468e2ed-08f9-442d-b64d-cc60d709e2fa)
+
+
+
+
+
 
 
 
