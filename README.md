@@ -127,5 +127,20 @@ Digital Image Processing Final Project
 This project is for educational purposes and may be used under the [MIT License](LICENSE).
 
 
+### DEMO (OUTPUT)
+
+
+![Screenshot 2025-05-19 144144](https://github.com/user-attachments/assets/488fe787-54ed-4cec-8a98-565e445ac712)
+![Screenshot 2025-05-19 144242(1)](https://github.com/user-attachments/assets/8c8a52ee-b2bb-48ec-93e3-bf465e7e62f4)
+![Screenshot 2025-05-19 144259(1)](https://github.com/user-attachments/assets/e8a46a55-8800-4805-b549-d31ac5cff14d)
+![Screenshot 2025-05-19 144327(1)](https://github.com/user-attachments/assets/61c557ad-6f66-43c3-82a5-e7d12592a015)
+![Screenshot 2025-05-19 144336(1)](https://github.com/user-attachments/assets/0468e2ed-08f9-442d-b64d-cc60d709e2fa)
+
+
+
+
+
+
+
 
 
